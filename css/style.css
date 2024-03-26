@@ -1,0 +1,35 @@
+
+  
+   .item h2 {
+    color: white;
+    font-size: 32px;
+  }
+   h1 {
+    background-image: url("../images/pattern.webp");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+  }
+  
+  
+  .price {
+    color: Blue;
+    font-weight: bold;
+  }
+  
+  #brush {
+    background-color: MediumSpringGreen;
+  }
+  
+ 
+  #paint {
+    background-color: SkyBlue;
+  }
+ #frame {
+    background-color: LightCoral;
+  }
+  h1, h2, h3, p {
+    font-family: Helvetica;
+  }
